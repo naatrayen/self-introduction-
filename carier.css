@@ -1,0 +1,48 @@
+header {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  gap: 30px;
+}
+ul li {
+  display: inline-block;
+  margin: 20px;
+  text-align: center;
+}
+.art {
+  text-decoration: none;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+}
+.art:hover {
+  border-bottom: 3px solid black;
+}
+.zex {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 30px;
+  letter-spacing: 20px;
+  color: orangered;
+}
+.cont {
+  display: flex;
+  gap: 30px;
+  justify-content: space-around;
+}
+.ffirst {
+  font-size: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+span {
+  color: orangered;
+}
+img {
+  width: 600px;
+}
+.text {
+  text-align: center;
+  margin-top: 14%;
+}
